@@ -56,18 +56,47 @@ Example of moving the player character: "As you strain and wriggle you attract t
 This is the real test for the GM. Thinking about damage and adapting to changes to their character take time and mental effort. It's why players will often ask if they 'loose a dice' or similar for damage. Although mechanically it makes the game more difficult, it's easier to think about it. Purely narrative described damage is something people are actually quite adverse to and will make effort in the story to avoid. 
 The same applies to death. Although making a new character takes seconds, if you allow death you can get player vs player descending into a huge and powerful demon player chasing down and killing a weak respawned demon player again and again. While a great image and fun game if the player of the weak demon actively volunteers for it, it could be boring and frustrating session for that player if they feel trapped into it by the table's social contract. In the two cases where player demons really should have been dead, I offered a choice. One was "what does it take, you name, memory or eyes?" The player sacrifed their name, and spent the rest of the game trying to eat other's memories to reclaim it. In another situation, the player's plant demon was sitting in a drain full of acid bile mixed with flesh eating bacteria and mild beer. They failed their roll. "The coorupt liquor burns deep into you. You have the choice of abandoning this body and satrting again as a tiny seedpod with a couple of leaves, or withering back to a blacked and burnt husk of dead vines." The player chose the latter, and in very short order, extracted the calcium and remade themselves into a skeleton draped in a cloak of dead vines. Intrusion into player self image smarts in the way that crossing off a health box dosen't even if the GM has to think a little more.
 
-## Principal Rules for the GM
+## Principle Rules for the GM
+
+Be a fan of the characters.
+
+
+Help the players get into interesting situations
+
+
+Make the world seem real.
+
+
+When in doubt:
+*make them feel small at the start*
+seperate them 
+*push them together*
+ask a loaded question
+*tell them something their demon has only just noticed*
+tell the consquences and ask
+*give them something to fight for*
+give them something to fight over
+*take away their stuff*
+introduce a complication
+*introduce active opposition*
+
+
 a) *When the GM rolls for generic reality to oppose a player, roll a single dice.*
 If this seems low and too easy for players to beat, don't worry. The more confident they are about rolling, the more they will do and the more trouble they'll get into. You'll get your opportunities.
+
 b) *If reality rolls a six, reality gets a new skill.*
 The GM dosen't collect XP, but you can upgrade reality by rolling sixes same as other players. It also means that the reality 'stiffens' against precisely the things your players are doing (and getting better at). The more players there are, the faster this will happen, and player's will find they need to focus on a niche. This won't happen as fast with only one or two players, which is good as they'll have more to do. I like manifesting high level reality skils (3 dice or more) as anthropomorphic personifications, nature spirits, greek gods or similar. 
+
 c) *It is better to roll against players than create Active opposition* 
 The game comes from the players doing things. Remember that! 
 However, I use the principle of introducing a 2 Dice level angel into the scene everytime someone rolls a pair of ones. If the demons start off as maggot size larvae, then a segull shaped angel is huge, cunning and with beautiful snow white wings. There are also times when active opposition just makes sense for the story the players have made. If you are a maggot sized demon crawling about in the open, a pigeon will try and eat you.
+
 d) *The players are weird, not the world.*
 The players are mutating demons becuase that reflects the nature of the rules. Don't give them more to process. Keep the world real and  modern and based in an example city to save you having to make a map. Answer questions. Remind them they may have extra senses.
+
 e) *Add detail, be gruesome*
 The players will be reflecting your descriptions when they describe their actions. Go full silly horror film on them. Seek to entertain, not shock.
+
 f) *Have and use the x-card*
 Read this to your players: By the nature of the game, players will probably do some pretty horrible things in the fiction. Sooner or later you might hit a topic the pulls someone out of the game. Don't sweat it, don't ask about it. If they reach out, touch the X-Card, retcon that shit out of the fiction on the spot. Sex attacks is a common trigger, but so can phobias or things like dead babies. You aren't edgelords, and you are all here to have fun. If someone asks for a topic to be avoided, avoid it. Don't circle it, refer to it or sidle up to it to provoke a reaction. Just drop it.
 As GM, use the X-card yourself, on yourself, early on, to make it seem possible to use it.
