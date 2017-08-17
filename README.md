@@ -82,7 +82,7 @@ introduce a complication
 
 
 a) *When the GM rolls for generic reality to oppose a player, roll a single dice.*
-If this seems low and too easy for players to beat, don't worry. The more confident they are about rolling, the more they will do and the more trouble they'll get into. You'll get your opportunities.
+If this seems low and too easy for players to beat, don't worry. The more confident they are about rolling, the more they will do and the more trouble they'll get into. You'll get your opportunities. Every success they have should change the situation significantly. This is not a game for grinding down hitpoints. One good hit is all they should need. Two if you want to make a point of how tough this oppostion is.
 
 b) *If reality rolls a six, reality gets a new skill.*
 The GM dosen't collect XP, but you can upgrade reality by rolling sixes same as other players. It also means that the reality 'stiffens' against precisely the things your players are doing (and getting better at). The more players there are, the faster this will happen, and player's will find they need to focus on a niche. This won't happen as fast with only one or two players, which is good as they'll have more to do. I like manifesting high level reality skils (3 dice or more) as anthropomorphic personifications, nature spirits, greek gods or similar. 
