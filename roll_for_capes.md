@@ -124,17 +124,17 @@ Tell us about the trigger. The power uses what is in your characters head at the
 Finally, without showing anyone else, write down how you'd like your character to die, ( fighting Godzilla, saving a burning bus full of kids, plunging over a waterfall wrestling your nemesis) on a piece of paper and pass it to the DM. They are not going to try to make it come true, but they might allow a similar situation to come up during the game. 
 
 
-## Triggered power
-Stress | 1,2 sudden, unexpected >(car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+## Triggered power (and examples of power themes)
+Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
 ---|---|---|---
-1 Physical/internal (attack, anorexia, cancer) | Brute (forcefields, durability, strength, regeneration) | Shaker (cone of energy, dome of effect, spiral twist on battlefield, teleoprt swap areas)    | Thinker (get information, pierce lies, plans that work, avoiding attacks)
-2 Enviromental/external (burns, constant blaring noise, poverty) | Blaster | Mover | Tinker
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| Striker | Breaker | Trump
-4 Spiritual/future (being fired, bad divorce, bullying) | Stranger | Changer | Master
+1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | **Shaker** (cone of energy, dome of effect, change areas)    | **Thinker** (get information, pierce lies, plans that work, avoiding attacks)
+2 Enviromental/external (burns, constant blaring noise, poverty) | **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Mover** (flight, speed, teleport, dodging, leaping) | **Tinker** (gadgeeter, mad science, mechas, hacker)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Breaker** (change to data/energy/animal/giant/form with powers) | **Trump** (copy/reflect/twist/enhance other powers)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (invisilibilty, stealth, memory manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
 5 Null |  | | 
 6 Null |  | | 
 
-
+Weaverdice goes into a lot more detail on the type of triggers and the combinations or specialisims of powers that are likely produced. This is just my approximation.
 
 ## Complications
  Roll | Complication | examples
