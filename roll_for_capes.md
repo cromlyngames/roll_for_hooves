@@ -2,7 +2,7 @@
 a specific game based on the *roll for shoes engine* by Ben Wray, with the setting based on the Parahumans web serial by Wildbow.
 In this game you play as 'capes' - superheros with super powers in a 4 tone comic book world with plenty of black ink.
 
-##disclaimer
+## Disclaimer
   This is a work of fan fiction using principles and ideas from the webserials [Worm](https://parahumans.wordpress.com/2011/06/11/1-1/) and [Ward](https://www.parahumans.net/2017/10/21/glow-worm-0-1/), which is trademarked by  J.C. McCrae aka Wildbow.
   "Triggers", the twelve part power distribution and "case 53s" are concepts created and owned by J.C. McCrae, and I do not claim any ownership over them or the world of Wormverse."
   This game is for entertainment only and is not part of the official story line, or licensed rpg. *[It is not Weaverdice](https://www.parahumans.net/f-a-q/)* 
