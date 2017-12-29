@@ -125,14 +125,14 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 
 ## Triggered power
-Stress | 1,2 Sudden | 3,4 Rapid | 5,6 Long term
+Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; heavy metal poisoning; abuse; grief upon grief) 
 --- | --- | --- | --- 
-1 Physical | Brute | Shaker | Thinker
-2 Enviromental | Blaster | Mover | Tinker
-3 Emotional| Striker | Breaker | Trump
-4 Spiritual| Stranger | Changer | Master
-5 Reroll |  | | 
-6 Reroll |  | | 
+1 Physical/internal (attack, anorexia, cancer) | Brute | Shaker | Thinker
+2 Enviromental/external (burns, constant blaring noise, poverty) | Blaster | Mover | Tinker
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| Striker | Breaker | Trump
+4 Spiritual/future (being fired, bad divorce, bullying) | Stranger | Changer | Master
+5 Null |  | | 
+6 Null |  | | 
 
 
 
