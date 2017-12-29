@@ -125,7 +125,7 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 
 ## Triggered power
-Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+Stress | 1,2 sudden, unexpected >(car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
 
 1 Physical/internal (attack, anorexia, cancer) | Brute (forcefields, durability, strength, regeneration) | Shaker (cone of energy, dome of effect, spiral twist on battlefield, teleoprt swap areas)    | Thinker (get information, pierce lies, plans that work, avoiding attacks)
 2 Enviromental/external (burns, constant blaring noise, poverty) | Blaster | Mover | Tinker
