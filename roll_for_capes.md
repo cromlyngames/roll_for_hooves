@@ -128,9 +128,9 @@ Finally, without showing anyone else, write down how you'd like your character t
 Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
 ---|---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | **Mover** (flight, speed, teleport, dodging, leaping)   | **Thinker** (get information, pierce lies, plans that work, avoiding attacks)
-2 Enviromental/external (burns, constant blaring noise, poverty) | **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Breaker** (change to data/energy/animal/giant/form with powers) | **Trump** (copy/reflect/twist/enhance other powers)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (invisilibilty, stealth, memory manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
+2 Enviromental/external (burns, constant blaring noise, poverty) |  **Breaker** (change to data/energy/animal/giant/form with powers) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
 5 Null |  | | 
 6 Null |  | | 
 
