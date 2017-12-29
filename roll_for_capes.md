@@ -116,10 +116,10 @@ As GM, use the X-card yourself, on yourself, early on, to make it seem possible 
 
 Tell us a little about your character. Are they an adult or are they at school? Before their trigger, what did they want to do as a job? What was their secret dream they never admitted to anyone?
 
-Now roll two six sided dice to see what type of trigger they had on the table below. You can use either dice for the type and time frame of the stress. Example. Rolling a 1 and a 4 give you the option of a Sudden Spiritual trigger leading to a Sranger type power, OR a Rapid, Physical trigger leading to Shaker powers.
+Now roll two six sided dice to see what type of trigger they had on the table below. You can use either dice for the type and time frame of the stress. Example. Rolling a 1 and a 4 give you the option of a Sudden Spiritual trigger leading to a Sranger type power, OR a Rapid, Physical trigger leading to Mover powers.
 If you don't like either choice roll a *complication* and reroll your power. If you still don't like it, roll a *side-effect* as well and reroll your power. You must stick with this final roll.
 
-Tell us about the trigger. The power uses what is in your characters head at the time. Give the power a little bit more of a theme based on the situation or your character's history, eg Acid, Petals, Carpet, Noise, Optimisim.
+Tell us about the trigger. Just like dreams, the power reflects what is in your character's head at the time. Give the power a little bit more of a specialisim based on the situation or your character's history, eg Acid, Petals, Carpet, Noise, Optimisim. That is your Level 1 power.
 
 Finally, without showing anyone else, write down how you'd like your character to die, ( fighting Godzilla, saving a burning bus full of kids, plunging over a waterfall wrestling your nemesis) on a piece of paper and pass it to the DM. They are not going to try to make it come true, but they might allow a similar situation to come up during the game. 
 
