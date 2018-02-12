@@ -1,3 +1,4 @@
+
 # Roll_for_capes
 a specific game based on the *roll for shoes engine* by Ben Wray, with the setting based on the Parahumans web serial by Wildbow.
 In this game you play as 'capes' - superheros with super powers in a 4 tone comic book world with plenty of black ink.
@@ -25,7 +26,7 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 
 ## Triggered power (and examples of power themes)
-Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 
+Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | tbc
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | 
 2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | 
