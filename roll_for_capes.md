@@ -16,7 +16,7 @@ In this game you play as 'capes' - superheros with super powers in a 4 tone comi
 Tell us a little about your character. Are they an adult or are they at school? Before their trigger, what did they want to do as a job? What was their secret dream they never admitted to anyone?
 
 Now roll two six sided dice to see what type of trigger they had on the table below. You can use either dice for the type and time frame of the stress. Example. Rolling a 1 and a 4 give you the option of a Sudden Spiritual trigger leading to a Sranger type power, OR a Rapid, Physical trigger leading to Mover powers.
-If you don't like either choice roll a *complication* and reroll your power. If you still don't like it, roll a *side-effect* as well and reroll your power. You must stick with this final roll.
+If you don't like either choice roll a *complication* and reroll your power. If you still don't like it, roll a *side-effect* as well and reroll your power. You must stick with this final roll. Th
 
 Tell us about the trigger. Just like dreams, the power reflects what is in your character's head at the time. Give the power a little bit more of a specialisim based on the situation or your character's history, eg Acid, Petals, Carpet, Noise, Optimisim. That is your Level 1 power.
 
@@ -26,10 +26,7 @@ Finally, without showing anyone else, write down how you'd like your character t
 ## Triggered power (and examples of power themes)
 Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
 ---|---|---|---
-1 Physical/internal (attack, anorexia, cancer) 
-| **Brute** (forcefields, durability, strength, regeneration) 
-| **Mover** (flight, speed, teleport, dodging, leaping)   
-|  **Breaker** (change to data/energy/animal/giant/form with powers)
+1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | **Mover** (flight, speed, teleport, dodging, leaping)   |  **Breaker** (change to data/energy/animal/giant/form with powers)
 2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
 3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
 4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
