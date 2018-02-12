@@ -10,9 +10,62 @@ In this game you play as 'capes' - superheros with super powers in a 4 tone comi
   I am grateful to Wildbow for his wonderful stories, for without his writing, this game would not exist."
 
 
+
+# Character Creation
+
+Tell us a little about your character. Are they an adult or are they at school? Before their trigger, what did they want to do as a job? What was their secret dream they never admitted to anyone?
+
+Now roll two six sided dice to see what type of trigger they had on the table below. You can use either dice for the type and time frame of the stress. Example. Rolling a 1 and a 4 give you the option of a Sudden Spiritual trigger leading to a Sranger type power, OR a Rapid, Physical trigger leading to Mover powers.
+If you don't like either choice roll a *complication* and reroll your power. If you still don't like it, roll a *side-effect* as well and reroll your power. You must stick with this final roll.
+
+Tell us about the trigger. Just like dreams, the power reflects what is in your character's head at the time. Give the power a little bit more of a specialisim based on the situation or your character's history, eg Acid, Petals, Carpet, Noise, Optimisim. That is your Level 1 power.
+
+Finally, without showing anyone else, write down how you'd like your character to die, ( fighting Godzilla, saving a burning bus full of kids, plunging over a waterfall wrestling your nemesis) on a piece of paper and pass it to the DM. They are not going to try to make it come true, but they might allow a similar situation to come up during the game. 
+
+
+## Triggered power (and examples of power themes)
+Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+---|---|---|---
+1 Physical/internal (attack, anorexia, cancer) 
+| **Brute** (forcefields, durability, strength, regeneration) 
+| **Mover** (flight, speed, teleport, dodging, leaping)   
+|  **Breaker** (change to data/energy/animal/giant/form with powers)
+2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
+5 Null |  | | 
+6 Null |  | | 
+
+Weaverdice goes into a lot more detail on the type of triggers and the combinations or specialisims of powers that are likely produced. This is just my approximation.
+
+## Complications
+ Roll | Complication | examples
+---|---|---
+1| Stalker | Another cape thematically opposed who is truly, madly obessed with you. They will always come after you and will never give up.
+2| Wanted | You are wanted by the police. It is serious. What did you do?
+3| Sponsor | you have a sponsor who pays for your nice costume and equipment. Sometimes they need you to help them with adverts, PR or worse.
+4| Dependents | you have someone, a granmother, lil brother or a chile dependet on you.
+5| Health | Your power is driving you mad or killing you through damage, insomnia, addiction or mutation. Can you survive long enough to make a difference?
+6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
+
+## Side Effects
+ Roll | Side Effect | examples
+---|---|---
+1| Sense Rewired | Choose a sense (includinng odd ones like balance or direction). It now operates through your power. How does that effect what the DM tells you about the world?
+2| Incontinence | You can't turn your power off or it triggers randomly sometimes.
+3| Unreliable | Your power waxes and wanes based on some rule that you don't understand
+4| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as human.
+5| Dietry requirement | You can only eat something rare, expensive or dangerous to those around you. What is it?
+6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
+
+
+
+
+
+
 ## Rules
 
-The core rules are short and simple enough we will start with them. Character creation is below.
+The core rules are short and simple enough.
 
 1) Say what you do (with your power) and roll a number of d6s.
 
@@ -110,52 +163,6 @@ f) *Have and use the x-card*
 Read this to your players: By the nature of the game, players will probably do or witness some pretty horrible things in the fiction. Sooner or later you might hit a topic the pulls someone out of the game.
  Don't sweat it, don't ask about it. If they reach out, touch the X-Card, retcon that shit out of the fiction on the spot. Sex attacks is a common reason to use the card, but so can phobias or things like dead babies. You aren't edgelords, and you are all here to have fun. If someone asks for a topic to be avoided, avoid it. Don't circle it, refer to it or sidle up to it to provoke a reaction. Just drop it.
 As GM, use the X-card yourself, on yourself, early on, to make it seem possible to use it.
-
-
-# Character Creation
-
-Tell us a little about your character. Are they an adult or are they at school? Before their trigger, what did they want to do as a job? What was their secret dream they never admitted to anyone?
-
-Now roll two six sided dice to see what type of trigger they had on the table below. You can use either dice for the type and time frame of the stress. Example. Rolling a 1 and a 4 give you the option of a Sudden Spiritual trigger leading to a Sranger type power, OR a Rapid, Physical trigger leading to Mover powers.
-If you don't like either choice roll a *complication* and reroll your power. If you still don't like it, roll a *side-effect* as well and reroll your power. You must stick with this final roll.
-
-Tell us about the trigger. Just like dreams, the power reflects what is in your character's head at the time. Give the power a little bit more of a specialisim based on the situation or your character's history, eg Acid, Petals, Carpet, Noise, Optimisim. That is your Level 1 power.
-
-Finally, without showing anyone else, write down how you'd like your character to die, ( fighting Godzilla, saving a burning bus full of kids, plunging over a waterfall wrestling your nemesis) on a piece of paper and pass it to the DM. They are not going to try to make it come true, but they might allow a similar situation to come up during the game. 
-
-
-## Triggered power (and examples of power themes)
-Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
----|---|---|---
-1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | **Mover** (flight, speed, teleport, dodging, leaping)   |  **Breaker** (change to data/energy/animal/giant/form with powers)
-2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
-5 Null |  | | 
-6 Null |  | | 
-
-Weaverdice goes into a lot more detail on the type of triggers and the combinations or specialisims of powers that are likely produced. This is just my approximation.
-
-## Complications
- Roll | Complication | examples
----|---|---
-1| Stalker | Another cape thematically opposed who is truly, madly obessed with you. They will always come after you and will never give up.
-2| Wanted | You are wanted by the police. It is serious. What did you do?
-3| Sponsor | you have a sponsor who pays for your nice costume and equipment. Sometimes they need you to help them with adverts, PR or worse.
-4| Dependents | you have someone, a granmother, lil brother or a chile dependet on you.
-5| Health | Your power is driving you mad or killing you through damage, insomnia, addiction or mutation. Can you survive long enough to make a difference?
-6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
-
-## Side Effects
- Roll | Side Effect | examples
----|---|---
-1| Sense Rewired | Choose a sense (includinng odd ones like balance or direction). It now operates through your power. How does that effect what the DM tells you about the world?
-2| Incontinence | You can't turn your power off or it triggers randomly sometimes.
-3| Unreliable | Your power waxes and wanes based on some rule that you don't understand
-4| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as human.
-5| Dietry requirement | You can only eat something rare, expensive or dangerous to those around you. What is it?
-6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
-
 
 
 
