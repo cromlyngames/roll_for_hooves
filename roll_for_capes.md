@@ -6,7 +6,8 @@ In this game you play as 'capes' - superheros with super powers in a 4 tone comi
   This is a work of fan fiction using principles and ideas from the webserials [Worm](https://parahumans.wordpress.com/2011/06/11/1-1/) and [Ward](https://www.parahumans.net/2017/10/21/glow-worm-0-1/), which is trademarked by  J.C. McCrae aka Wildbow.
   "Triggers", the twelve part power distribution and "case 53s" are concepts created and owned by J.C. McCrae, and I do not claim any ownership over them or the world of Wormverse."
   This game is for entertainment only and is not part of the official story line, or licensed rpg. *[It is not Weaverdice](https://www.parahumans.net/f-a-q/)* 
-  I am are not profiting financially from the creation and publication of this rule set.
+
+I am are not profiting financially from the creation and publication of this rule set.
   I am grateful to Wildbow for his wonderful stories, for without his writing, this game would not exist."
 
 
@@ -24,12 +25,30 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 
 ## Triggered power (and examples of power themes)
-Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
----|---|---|---
-1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | **Mover** (flight, speed, teleport, dodging, leaping)   |  **Breaker** (change to data/energy/animal/giant/form with powers)
-2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
+Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | 
+---|---|---
+1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | 
+2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | 
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| 
+4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | 
+5 Null |  | | 
+6 Null |  | | 
+
+Stress | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+---|---|---
+1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight, speed, teleport, dodging, leaping)   |  **Breaker** (change to data/energy/animal/giant/form with powers)
+2 Enviromental/external (burns, constant blaring noise, poverty) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
+5 Null |  | | 
+6 Null |  | | 
+
+Stress |  | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+---|---|---
+1 Physical/internal (attack, anorexia, cancer) |   |  **Breaker** (change to data/energy/animal/giant/form with powers)
+2 Enviromental/external (burns, constant blaring noise, poverty) |    | **Tinker** (gadgeeter, mad science, mechas, hacker)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)  |    | **Trump** (copy/reflect/twist/enhance other powers)
+4 Spiritual/future (being fired, bad divorce, bullying) |   | **Master** (creates minion, control insects, hypnosis, persusive)
 5 Null |  | | 
 6 Null |  | | 
 
