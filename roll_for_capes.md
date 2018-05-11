@@ -28,7 +28,7 @@ Finally, without showing anyone else, write down how you'd like your character t
 ## Triggered power (and examples of power themes)
 
 
-Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexual assualt)| 1 | 2
+Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexual assault)| 1 | 2
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields) | **Brute** (durability, strength)
 2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
@@ -39,7 +39,7 @@ Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexu
 
 
 
-Type of stress: Episodic / rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 3| 4
+Type of stress: Episodic / accelerating (starvation; debts; survivor's guilt; loss of faith )| 3| 4
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
 2 Enviromental/external (burns, constant blaring noise, poverty) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
@@ -50,7 +50,7 @@ Type of stress: Episodic / rapidly building up (starvation; gambling debts; surv
 
 
 
-Stress tyype: Chronic / grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief)  | 5 |6 
+Type of Stress: Chronic /  long term (paralysis; metal poisoning; abuse; grief upon grief)| 5 |6 
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
 2 Enviromental/external (burns, constant blaring noise, poverty) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
