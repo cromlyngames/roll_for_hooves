@@ -26,73 +26,68 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 
 ## Triggered power (and examples of power themes)
-Type of stress: sudden, unexpected (car crash; drowning; blind rage; sexual assualt)
+Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexual assualt)
 Stress | 1 | 2
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields) | **Brute** (durability, strength)
 2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
 3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth) | **Stranger** (projections)
-5 Null |  | | 
-6 Null |  | | 
+4 Self Image (being fired, bad divorce, bullying) | **Stranger** (stealth) | **Stranger** (projections)
+5 Anticpatory/future | **Brute** (regeneration) | **Stranger** (memory/senses manipulation)| 
+6 Relationship/control |  **Thinker** (avoiding attacks) | **Striker** (sleep/effect touch)| 
 
-Type of stress: rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith )
+Type of stress: Episodic / rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith )
 Stress | 3| 4
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
 2 Enviromental/external (burns, constant blaring noise, poverty) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
 3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Blaster** (energy blast) | **Blaster** (effect sniper)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
-5 Null |  | | 
-6 Null |  | | 
+4 Self Image (being fired, bad divorce, bullying) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
+5 Anticpatory/future |  **Mover** (teleport, dodging, leaping)  | **Changer** (grow armour/weapons) | 
+6 Relationship/control  | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
 
-Stress tyype: grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+Stress tyype: Chronic / grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
 Stress | 5 |6 
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
 2 Enviromental/external (burns, constant blaring noise, poverty) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
 3 Emotional/past (heartbreak, perfectionisim, repressed desire)  | **Trump** (copy/reflect other powers)   | **Trump** (twist/enhance other powers)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
-5 Null |  | | 
-6 Null |  | | 
-
-To be stirred back in:
-**Brute** (regeneration)
- **Thinker** (avoiding attacks)
-**Striker** (sleep/effect touch)
-**Stranger** (memory/senses manipulation)
- **Mover** (teleport, dodging, leaping) 
-**Shaker** (change areas)
-**Blaster** (ranged weapon user)
-**Changer** (grow armour/weapons) 
-**Breaker** (duplicates things)
-**Tinker** (mechas, vehicles)
-**Trump** (copy/reflect/twist/enhance other powers)
-**Master** (rigidly control things)
-
+4 Self Image (being fired, bad divorce, bullying) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
+5 Anticpatory/future| **Breaker** (duplicates things) | **Trump** (random shifting power) | 
+6 Relationship/control  | **Tinker** (mechas, vehicles)  | **Master** (rigidly control things) | 
 
 Weaverdice goes into a lot more detail on the type of triggers and the combinations or specialisims of powers that are likely produced. This is just my approximation.
 
 ## Complications
- Roll | Complication | examples
+ Roll 2d6 | Complication | examples
 ---|---|---
-1| Stalker | Another cape thematically opposed who is truly, madly obessed with you. They will always come after you and will never give up.
-2| Wanted | You are wanted by the police. It is serious. What did you do?
-3| Sponsor | you have a sponsor who pays for your nice costume and equipment. Sometimes they need you to help them with adverts, PR or worse.
-4| Dependents | you have someone, a granmother, lil brother or a child dependent on you.
-5| Health | Your power is driving you mad or killing you through damage, insomnia, addiction or mutation. Can you survive long enough to make a difference?
-6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
+2| Stalker | Another cape thematically opposed who is truly, madly obessed with you. They will always come after you and will never give up.
+3| Wanted | You are wanted by the police. It is serious. What did you do?
+4| Sponsor | you have a sponsor who pays for your nice costume and equipment. Sometimes they need you to help them with adverts, PR or worse.
+5| Dependents | you have someone, a granmother, lil brother or a child dependent on you.
+6| Health | Your power is driving you mad or killing you through damage, insomnia, addiction or mutation. Can you survive long enough to make a difference?
+7| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
+8|
+9|
+10|
+11|
+12|
+
 
 ## Side Effects
  Roll | Side Effect | examples
 ---|---|---
-1| Sense Rewired | Choose a sense (includinng odd ones like balance or direction). It now operates through your power. How does that effect what the DM tells you about the world?
-2| Incontinence | You can't turn your power off or it triggers randomly sometimes.
-3| Unreliable | Your power waxes and wanes based on some rule that you don't understand
-4| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as human.
-5| Dietry requirement | You can only eat something rare, expensive or dangerous to those around you. What is it?
-6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
-
+2| Sense Rewired | Choose a sense (includinng odd ones like balance or direction). It now operates through your power. How does that effect what the DM tells you about the world?
+3| Incontinence | You can't turn your power off or it triggers randomly sometimes.
+4| Unreliable | Your power waxes and wanes based on some rule that you don't understand
+5| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as human.
+6| Dietry requirement | You can only eat something rare, expensive or dangerous to those around you. What is it?
+7| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
+8|
+9|
+10|
+11|
+12|
 
 
 
