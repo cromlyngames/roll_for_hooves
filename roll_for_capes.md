@@ -26,32 +26,50 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 
 ## Triggered power (and examples of power themes)
-Stress | 1,2 sudden, unexpected (car crash; drowning; blind rage; sexual assualt) | tbc
+Type of stress: sudden, unexpected (car crash; drowning; blind rage; sexual assualt)
+Stress | 1 | 2
 ---|---|---
-1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields, durability, strength, regeneration) | 
-2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, pierce lies, plans that work, avoiding attacks) | 
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts, unbreakable grapple, sleep touch)| 
-4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth, projections, memory/senses manipulation) | 
+1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields) | **Brute** (durability, strength)
+2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Stranger** (stealth) | **Stranger** (projections)
 5 Null |  | | 
 6 Null |  | | 
 
-Stress | 3,4 rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith ) | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+Type of stress: rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith )
+Stress | 3| 4
 ---|---|---
-1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight, speed, teleport, dodging, leaping)   |  **Breaker** (change to data/energy/animal/giant/form with powers)
-2 Enviromental/external (burns, constant blaring noise, poverty) | **Shaker** (cone of energy, dome of effect, change areas)  | **Tinker** (gadgeeter, mad science, mechas, hacker)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Blaster** (energy blast, ranged weapon user, entangling thrower, emotional sniper) | **Trump** (copy/reflect/twist/enhance other powers)
-4 Spiritual/future (being fired, bad divorce, bullying) | **Changer** (shapeshifter, mimic, grow armour/weapons)  | **Master** (creates minion, control insects, hypnosis, persusive)
+1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
+2 Enviromental/external (burns, constant blaring noise, poverty) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Blaster** (energy blast) | **Blaster** (effect sniper)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
 5 Null |  | | 
 6 Null |  | | 
 
-Stress |  | 5,6 grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+Stress tyype: grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+Stress | 5 |6 
 ---|---|---
-1 Physical/internal (attack, anorexia, cancer) |   |  **Breaker** (change to data/energy/animal/giant/form with powers)
-2 Enviromental/external (burns, constant blaring noise, poverty) |    | **Tinker** (gadgeeter, mad science, mechas, hacker)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)  |    | **Trump** (copy/reflect/twist/enhance other powers)
-4 Spiritual/future (being fired, bad divorce, bullying) |   | **Master** (creates minion, control insects, hypnosis, persusive)
+1 Physical/internal (attack, anorexia, cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
+2 Enviromental/external (burns, constant blaring noise, poverty) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
+3 Emotional/past (heartbreak, perfectionisim, repressed desire)  | **Trump** (copy/reflect other powers)   | **Trump** (twist/enhance other powers)
+4 Spiritual/future (being fired, bad divorce, bullying) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
 5 Null |  | | 
 6 Null |  | | 
+
+To be stirred back in:
+**Brute** (regeneration)
+ **Thinker** (avoiding attacks)
+**Striker** (sleep/effect touch)
+**Stranger** (memory/senses manipulation)
+ **Mover** (teleport, dodging, leaping) 
+**Shaker** (change areas)
+**Blaster** (ranged weapon user)
+**Changer** (grow armour/weapons) 
+**Breaker** (duplicates things)
+**Tinker** (mechas, vehicles)
+**Trump** (copy/reflect/twist/enhance other powers)
+**Master** (rigidly control things)
+
 
 Weaverdice goes into a lot more detail on the type of triggers and the combinations or specialisims of powers that are likely produced. This is just my approximation.
 
@@ -61,7 +79,7 @@ Weaverdice goes into a lot more detail on the type of triggers and the combinati
 1| Stalker | Another cape thematically opposed who is truly, madly obessed with you. They will always come after you and will never give up.
 2| Wanted | You are wanted by the police. It is serious. What did you do?
 3| Sponsor | you have a sponsor who pays for your nice costume and equipment. Sometimes they need you to help them with adverts, PR or worse.
-4| Dependents | you have someone, a granmother, lil brother or a chile dependet on you.
+4| Dependents | you have someone, a granmother, lil brother or a child dependent on you.
 5| Health | Your power is driving you mad or killing you through damage, insomnia, addiction or mutation. Can you survive long enough to make a difference?
 6| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
 
