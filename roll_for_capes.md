@@ -27,6 +27,7 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 ## Triggered power (and examples of power themes)
 Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexual assualt)
+
 Stress | 1 | 2
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields) | **Brute** (durability, strength)
@@ -37,6 +38,7 @@ Stress | 1 | 2
 6 Relationship/control |  **Thinker** (avoiding attacks) | **Striker** (sleep/effect touch)| 
 
 Type of stress: Episodic / rapidly building up (starvation; gambling debts; survivor's guilt; loss of faith )
+
 Stress | 3| 4
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
@@ -47,6 +49,7 @@ Stress | 3| 4
 6 Relationship/control  | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
 
 Stress tyype: Chronic / grindingly long term ( paralysis; metal poisoning; abuse; grief upon grief) 
+
 Stress | 5 |6 
 ---|---|---
 1 Physical/internal (attack, anorexia, cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
