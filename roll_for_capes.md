@@ -35,7 +35,7 @@ Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexu
 3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
 4 Self Image (being fired, bad divorce, bullying) | **Stranger** (stealth) | **Stranger** (projections)
 5 Anticpatory/future | **Brute** (regeneration) | **Stranger** (memory/senses manipulation)| 
-6 Relationship/control |  **Thinker** (avoiding attacks) | **Striker** (sleep/effect touch)| 
+6 Relationship/control |  **Thinker** (skill aquiring/avoiding attacks) | **Striker** (sleep/effect touch)| 
 
 
 
