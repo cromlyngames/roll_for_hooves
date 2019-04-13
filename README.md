@@ -2,6 +2,7 @@
 a specific game based on the *roll for shoes engine* by Ben Wray
 In this game you play as tiny demon larvae let loose on Earth. Grow bigger, eat each other, raise hell, fulfil your mission.
 
+Optional roll a demon here to help you get started: https://github.com/cromlyngames/roll_for_hooves/blob/master/roll_a_demon.md
 
 ## Rules
 
