@@ -1,7 +1,7 @@
 This table is to help if you want inpsiration for more motivated demon characters to help drive the game forward. 
-Roll two six sided dice and choose according to the coordinates you rolled.
 
-High level table:
+
+High level table: Roll one six sided dice three times.
 
 
 Roll | Demonic Circle | Motivation | Motif
@@ -14,7 +14,7 @@ Roll | Demonic Circle | Motivation | Motif
 6 | insecurity | protect champion | abstract
 
 
-Detailed table - use different rolls for motivation and motif
+Detailed table - Roll two six sided dice and choose according to the coordinates you rolled. Use different rolls for motivation and motif
 
 Roll | Demonic Circle | Motivation || motif/too many...
 --- | --- | --- | --- |---
