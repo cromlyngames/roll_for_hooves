@@ -33,7 +33,7 @@ Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexu
 1 Physical/internal (stabbed, injected, beaten) | **Brute** (forcefields) | **Brute** (durability, strength)
 2 Enviromental/external (burns, crushed, suffocated) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
 3 Emotional/past (unexpected heartbreak, phobic shock, )| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
-4 Self Image (being fired, loss of temper) | **Stranger** (stealth) | **Stranger** (projections)
+4 Self Image (being fired, facial damage) | **Stranger** (stealth) | **Stranger** (projections)
 5 Anticpatory/future (damage causing disability, night before execution)  | **Brute** (regeneration) | **Stranger** (memory/senses manipulation)| 
 6 Relationship/control (sexual assualt, reveal of secret) |  **Thinker** (skill aquiring/avoiding attacks) | **Striker** (sleep/effect touch)| 
 
@@ -42,22 +42,22 @@ Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexu
 Type of stress: Episodic / accelerating (starvation; debts; survivor's guilt; loss of faith )| 3| 4
 ---|---|---
 1 Physical/internal (anorexia, adrenaline junkie) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
-2 Enviromental/external (constant blaring noise, ) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
+2 Enviromental/external (constant blaring noise, growing wildfires) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
 3 Emotional/past (perfectionisim, )| **Blaster** (energy blast) | **Blaster** (effect sniper)
-4 Self Image (bad divorce) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
-5 Anticpatory/future |  **Mover** (teleport, dodging, leaping)  | **Changer** (grow armour/weapons) | 
-6 Relationship/control (cheating,   | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
+4 Self Image (bad divorce, loss of faith) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
+5 Anticpatory/future (rehab failing, spiralling debt) |  **Mover** (teleport, dodging, leaping)  | **Changer** (grow armour/weapons) | 
+6 Relationship/control (cheating, friend dying slowly)  | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
 
 
 
 Type of Stress: Chronic /  long term (paralysis; metal poisoning; abuse; grief upon grief)| 5 |6 
 ---|---|---
-1 Physical/internal (cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
-2 Enviromental/external (poverty) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
-3 Emotional/past (repressed desire)  | **Trump** (copy/reflect other powers)   | **Trump** (twist/enhance other powers)
-4 Self Image (bullying) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
-5 Anticpatory/future| **Breaker** (duplicates things) | **Trump** (random shifting power) | 
-6 Relationship/control  | **Tinker** (mechas, vehicles)  | **Master** (rigidly control things) | 
+1 Physical/internal (lung damage, paralysis) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
+2 Enviromental/external (grinding poverty, earthquake fear) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
+3 Emotional/past (repressed desire, compulsive hoarder)  | **Trump** (copy/reflect other powers)   | **Trump** (twist/enhance other powers)
+4 Self Image (bullying, external locus of identity) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
+5 Anticpatory/future (reoccuring cancer, self sabotaging career) | **Breaker** (duplicates things) | **Trump** (random shifting power) | 
+6 Relationship/control (trapped as carer, abused position over you) | **Tinker** (mechas, vehicles)  | **Master** (rigidly control things) | 
 
 Weaverdice goes into a lot more detail on the type of triggers and the combinations or specialisims of powers that are likely produced. This is just my approximation.
 
