@@ -70,11 +70,11 @@ Weaverdice goes into a lot more detail on the type of triggers and the combinati
 5| Dependents | you have someone, a granmother, lil brother or a child dependent on you.
 6| Health | Your power is driving you mad or killing you through damage, insomnia, addiction or mutation. Can you survive long enough to make a difference?
 7| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
-8|
-9|
-10|
-11|
-12|
+8| Self Defense | You have trained in martial arts/shooting/boxing/parkour or something similar, in addition to your power.
+9| Legacy | You are not the first with this power/costume. You have a legacy to maintain (and inherited enemies, perhaps)
+10| Mouth | You simply cannot resist chances to gloat, pun or monolouge, even when you should really be running
+11| Pro | You have professional skills (accoutnant, engineer, lawyer). Sometimes that skill is needed, not your power.
+12| Faith | You have a strong faith, and some strong taboos. Describe them and how they've changed your life.
 
 
 ## Side Effects
@@ -83,11 +83,11 @@ Weaverdice goes into a lot more detail on the type of triggers and the combinati
 2| Sense Rewired | Choose a sense (includinng odd ones like balance or direction). It now operates through your power. How does that effect what the DM tells you about the world?
 3| Incontinence | You can't turn your power off or it triggers randomly sometimes.
 4| Unreliable | Your power waxes and wanes based on some rule that you don't understand
-5| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as human.
+5| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as a human civilian.
 6| Dietry requirement | You can only eat something rare, expensive or dangerous to those around you. What is it?
 7| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
-8|
-9|
+8| Asbestos pants | Your power requires specialist/expensive/rare materials to survive
+9| 
 10|
 11|
 12|
