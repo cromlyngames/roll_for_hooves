@@ -86,10 +86,10 @@ Weaverdice goes into a lot more detail on the type of triggers and the combinati
 5| Inhuman | You have been physcially mutated by your power trigger. You cannot pass as a human civilian.
 6| Dietry requirement | You can only eat something rare, expensive or dangerous to those around you. What is it?
 7| Flashbacks | The DM will sometimes drop these on you. Try not to kill anyone during it. 
-8| Asbestos pants | Your power requires specialist/expensive/rare materials to survive
-9| 
-10|
-11|
+8| Asbestos pants | Your power requires a costume of specialist/expensive/rare materials
+9| Chargeup/cooldown | You need time to build up or recharge for best effect
+10| Goldmine | Your power creates material from nothing, this can make you a target.
+11| 
 12|
 
 
