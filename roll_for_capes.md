@@ -30,10 +30,10 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexual assault)| 1 | 2
 ---|---|---
-1 Physical/internal (attack, anorexia, cancer) | **Brute** (forcefields) | **Brute** (durability, strength)
-2 Enviromental/external (burns, constant blaring noise, poverty) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
-4 Self Image (being fired, bad divorce, bullying) | **Stranger** (stealth) | **Stranger** (projections)
+1 Physical/internal (stabbed, poisoned, beaten) | **Brute** (forcefields) | **Brute** (durability, strength)
+2 Enviromental/external (burns, crushed, ) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
+3 Emotional/past (heartbreak)| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
+4 Self Image (being fired) | **Stranger** (stealth) | **Stranger** (projections)
 5 Anticpatory/future | **Brute** (regeneration) | **Stranger** (memory/senses manipulation)| 
 6 Relationship/control |  **Thinker** (skill aquiring/avoiding attacks) | **Striker** (sleep/effect touch)| 
 
@@ -41,10 +41,10 @@ Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexu
 
 Type of stress: Episodic / accelerating (starvation; debts; survivor's guilt; loss of faith )| 3| 4
 ---|---|---
-1 Physical/internal (attack, anorexia, cancer) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
-2 Enviromental/external (burns, constant blaring noise, poverty) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)| **Blaster** (energy blast) | **Blaster** (effect sniper)
-4 Self Image (being fired, bad divorce, bullying) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
+1 Physical/internal (anorexia) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
+2 Enviromental/external (constant blaring noise) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
+3 Emotional/past (perfectionisim)| **Blaster** (energy blast) | **Blaster** (effect sniper)
+4 Self Image (bad divorce) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
 5 Anticpatory/future |  **Mover** (teleport, dodging, leaping)  | **Changer** (grow armour/weapons) | 
 6 Relationship/control  | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
 
@@ -52,10 +52,10 @@ Type of stress: Episodic / accelerating (starvation; debts; survivor's guilt; lo
 
 Type of Stress: Chronic /  long term (paralysis; metal poisoning; abuse; grief upon grief)| 5 |6 
 ---|---|---
-1 Physical/internal (attack, anorexia, cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
-2 Enviromental/external (burns, constant blaring noise, poverty) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
-3 Emotional/past (heartbreak, perfectionisim, repressed desire)  | **Trump** (copy/reflect other powers)   | **Trump** (twist/enhance other powers)
-4 Self Image (being fired, bad divorce, bullying) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
+1 Physical/internal (cancer) |  **Breaker** (change to data/energy form with powers) |  **Breaker** (change to animal/giant form with powers)
+2 Enviromental/external (poverty) | **Tinker** (gadgeeter)   | **Tinker** (mad science experiments)
+3 Emotional/past (repressed desire)  | **Trump** (copy/reflect other powers)   | **Trump** (twist/enhance other powers)
+4 Self Image (bullying) | **Master** (creates minions)  | **Master** ( hypnosis, persusive)
 5 Anticpatory/future| **Breaker** (duplicates things) | **Trump** (random shifting power) | 
 6 Relationship/control  | **Tinker** (mechas, vehicles)  | **Master** (rigidly control things) | 
 
