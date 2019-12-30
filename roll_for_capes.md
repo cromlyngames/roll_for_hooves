@@ -30,23 +30,23 @@ Finally, without showing anyone else, write down how you'd like your character t
 
 Type of stress: Acute: sudden, unexpected (car crash; drowning; blind rage; sexual assault)| 1 | 2
 ---|---|---
-1 Physical/internal (stabbed, poisoned, beaten) | **Brute** (forcefields) | **Brute** (durability, strength)
-2 Enviromental/external (burns, crushed, ) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
-3 Emotional/past (heartbreak)| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
-4 Self Image (being fired) | **Stranger** (stealth) | **Stranger** (projections)
-5 Anticpatory/future | **Brute** (regeneration) | **Stranger** (memory/senses manipulation)| 
-6 Relationship/control |  **Thinker** (skill aquiring/avoiding attacks) | **Striker** (sleep/effect touch)| 
+1 Physical/internal (stabbed, injected, beaten) | **Brute** (forcefields) | **Brute** (durability, strength)
+2 Enviromental/external (burns, crushed, suffocated) |  **Thinker** (get information, senses) |  **Thinker** (plans that work, foresight)
+3 Emotional/past (unexpected heartbreak, phobic shock, )| **Striker** (knockback punch, martial arts)| **Striker** (unbreakable grapple, weapon focus)
+4 Self Image (being fired, loss of temper) | **Stranger** (stealth) | **Stranger** (projections)
+5 Anticpatory/future (damage causing disability, night before execution)  | **Brute** (regeneration) | **Stranger** (memory/senses manipulation)| 
+6 Relationship/control (sexual assualt, reveal of secret) |  **Thinker** (skill aquiring/avoiding attacks) | **Striker** (sleep/effect touch)| 
 
 
 
 Type of stress: Episodic / accelerating (starvation; debts; survivor's guilt; loss of faith )| 3| 4
 ---|---|---
-1 Physical/internal (anorexia) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
-2 Enviromental/external (constant blaring noise) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
-3 Emotional/past (perfectionisim)| **Blaster** (energy blast) | **Blaster** (effect sniper)
+1 Physical/internal (anorexia, adrenaline junkie) | **Mover** (flight)   |   **Mover** (speed, dodging, leaping) 
+2 Enviromental/external (constant blaring noise, ) | **Shaker** (cone of energy)  | **Shaker** (dome of effect)
+3 Emotional/past (perfectionisim, )| **Blaster** (energy blast) | **Blaster** (effect sniper)
 4 Self Image (bad divorce) | **Changer** (shapeshifter)  |**Changer** ( mimic) 
 5 Anticpatory/future |  **Mover** (teleport, dodging, leaping)  | **Changer** (grow armour/weapons) | 
-6 Relationship/control  | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
+6 Relationship/control (cheating,   | **Shaker** (change areas) |**Blaster** (ranged weapon user) | 
 
 
 
